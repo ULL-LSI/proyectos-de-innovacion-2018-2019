@@ -14,11 +14,10 @@ gestion on-line de los procesos de ensennanza – aprendizaje.
 
 Número de estudiantes al que va dirigido: 60
 
-```
 | Nombre                    |  Titulación                      | Centro/Escuela |
+| ------------------------- | -------------------------------- | -------------- |
 | PROCESADORES DE LENGUAJES |  Grado en Ingeniería Informática | Escuela Superior de Ingeniería y Tecnología |
 | DESARROLLO DE SISTEMAS INFORMÁTICOS | Grado en Ingeniería Informática | Escuela Superior de Ingeniería y Tecnología |
-```
 
 # Organización del proyecto
 
