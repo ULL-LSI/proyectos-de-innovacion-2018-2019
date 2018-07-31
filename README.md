@@ -70,9 +70,7 @@ reflexionando en continuo sobre que es mejorable y como las herramientas pueden 
 
 ## Cronograma de desarrollo
 
-Planificación:
-
-Cada una o dos semanas coincidiendo con la evaluación de la práctica en cada una de las asignaturas de este docente
+Planificación: Las actividades se llevan a cabo cada una o dos semanas coincidiendo con la evaluación de la práctica en cada una de las asignaturas de este docente
 
 ## Desarrollo:
 
