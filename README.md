@@ -7,8 +7,8 @@ Metodologías de Evaluación para Asignaturas de Programación que usan GitHub E
 
 # Modalidad: Modalidad A
 
-Linea de acción: Innovacionn en la Evaluacionn. Innovacionn en el uso de tecnologinas de la informacionn y comunicacionn (TIC) asin como
-gestionn on-line de los procesos de ensennanza – aprendizaje.
+Linea de acción: Innovacion en la Evaluacion. Innovacion en el uso de tecnologias de la informacion y comunicacion (TIC) asin como
+gestion on-line de los procesos de ensennanza – aprendizaje.
 
 # Ámbito de desarrollo del proyecto
 
