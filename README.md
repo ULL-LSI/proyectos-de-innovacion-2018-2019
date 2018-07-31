@@ -56,13 +56,15 @@ Computación Avanzada del Master de Ingeniería Informática.
 
 ## Metodología:
 
-* Se considerarán y concretarán en detalle diversas metodologías de evaluación ya existentes en el contexto de GitHub Education. * Se usarán las
-herramientas desarrolladas, detectando carencias e intentando mejorar aquellas en las que somos co-autores (como ghedsh ,codelab, etc.)
+* Se considerarán y concretarán en detalle diversas metodologías de evaluación ya existentes en el contexto de GitHub Education. 
+* Se usarán las herramientas desarrolladas, detectando carencias e intentando mejorar aquellas en las que somos co-autores (como ghedsh ,codelab, etc.)
 
 ## Actividades a desarrollar:
 
-* El proceso sigue las pautas de una metodología ágil (Agile). * Las actividades de evaluación se hacen cada semana o dos a lo largo de todo el
-desarrollo de cada asignatura. * En cada evaluación se aplica las metodologías de evaluación y se hace uso de las aplicaciones que les dan soporte,
+* El proceso sigue las pautas de una metodología ágil (Agile). 
+* Las actividades de evaluación se hacen cada semana o dos a lo largo de todo el
+desarrollo de cada asignatura. 
+* En cada evaluación se aplica las metodologías de evaluación y se hace uso de las aplicaciones que les dan soporte,
 reflexionando en continuo sobre que es mejorable y como las herramientas pueden dar mejor apoyo al proceso de evaluación.
 
 
